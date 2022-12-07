@@ -1,0 +1,168 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(26, 21, 21);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border-top: 5px solid red;
+    animation: a 3s linear alternate infinite;
+
+}
+.innerDiv1{
+    width: 200px;
+    height: 200px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+    
+}
+.innerDiv2{
+    width: 190px;
+    height: 190px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv3{
+    width: 180px;
+    height: 180px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv4{
+    width: 170px;
+    height: 170px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv5{
+    width: 160px;
+    height: 160px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv6{
+    width: 150px;
+    height: 150px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv7{
+    width: 140px;
+    height: 140px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv8{
+    width: 130px;
+    height: 130px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv9{
+    width: 120px;
+    height: 120px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv10{
+    width: 110px;
+    height: 110px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv11{
+    width: 100px;
+    height: 100px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv12{
+    width: 90px;
+    height: 90px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv13{
+    width: 80px;
+    height: 80px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv14{
+    width: 70px;
+    height: 70px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv15{
+    width: 60px;
+    height: 60px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+video.innerDiv16{
+    width: 50px;
+    height: 50px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv17{
+    width: 40px;
+    height: 40px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv18{
+    width: 30px;
+    height: 30px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+    
+}
+.innerDiv19{
+    width: 20px;
+    height: 20px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+.innerDiv20{
+    width: 10px;
+    height: 10px;
+    animation: a 3s linear alternate infinite;
+    border-radius: 50%;
+    border-top: 5px solid red;
+}
+
+@keyframes a{
+    0%{
+        transform: rotate(90deg);
+    }
+    100%{
+        transform: rotate(-90deg);
+    }
+}
+
